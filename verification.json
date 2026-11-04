@@ -1,0 +1,12 @@
+{
+  "version": "v0.1-beta",
+  "date": "2026-11-04",
+  "game_code": "AFMJ",
+  "source_sha256": "e32069db40dbdcd3b1a3d2e51c7e573904398dc8a9e21282435db142d0bc2d7f",
+  "output_sha256": "65afe245f7afc5cbcf41de2a7adedbb5253c859ced3811a8af3bd67d99e961c9",
+  "patch_sha256": "7a41c39a37aba10ba5b126f45915e20253c7f79277634c33b77deea7b308f85d",
+  "bps_roundtrip": true,
+  "installed_resource_audit": true,
+  "full_playthrough_verified": false,
+  "known_referenced_japanese_entries": 180
+}
